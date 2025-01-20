@@ -14,7 +14,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/dalima-sahu" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/https://leetcode.com/u/dalima62657/" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
+<a target="_blank" href="https://leetcode.com/users/https://leetcode.com/u/dalima62657/" style="display: inline-block;"><img src="https://img.shields.io/badge/leetcode-logo?style=for-the-badge&logo=leetcode&logoColor=white&color=%23cc0000" alt="leetcode" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dalima6267&show_icons=true&locale=en" alt="dalima6267" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dalima6267&" alt="dalima6267" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dalima6267&show_icons=true&locale=en&layout=compact" alt="dalima6267" /></p>
